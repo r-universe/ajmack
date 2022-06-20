@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "auctionr"]
+	path = auctionr
+	url = https://github.com/ajmack/auctionr
+	shallow = true
+	registered = true
